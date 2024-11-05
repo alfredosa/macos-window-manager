@@ -2,6 +2,10 @@
 
 Built this because coming from Linux I am missing an easy way to interact with windows on Mac with the Keyboard
 
+I will add Keycodes as config too so you don't have to use mine.
+
+right now its Cmd + Ctrl + (left,right,up) Arrows. Will position your window based on the screen size.
+
 ## Run locally
 
 Install rust:
