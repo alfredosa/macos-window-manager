@@ -1,0 +1,15 @@
+[package]
+name = "macos-window-manager"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cocoa = "0.26.0"
+core-foundation = "0.10.0"
+core-graphics = "0.24.0"
+macos-accessibility-client = "0.0.1"
+objc = "0.2.7"
+osascript = "0.3.0"
+rand = "0.8.5"
+rust-embed = "8.5.0"
+serde = { version = "1.0.214", features = ["serde_derive"] }
