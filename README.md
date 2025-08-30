@@ -1,5 +1,9 @@
 # Macos Window Manager
 
+> [!WARNING]
+> This project is now officially migrated to https://git.alfie.news/macos-window-manager
+> I will likely delete this sometime.
+
 Built this because coming from Linux I am missing an easy way to interact with windows on Mac with the Keyboard
 
 I will add Keycodes as config too so you don't have to use mine.
